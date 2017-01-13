@@ -9,7 +9,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-public class LollipopButton : Control
+public class FlatButton : Control
 {
 
     #region  Variables
@@ -108,7 +108,7 @@ public class LollipopButton : Control
 
     #endregion
 
-    public LollipopButton()
+    public FlatButton()
     {
         SetStyle((ControlStyles.AllPaintingInWmPaint | ControlStyles.OptimizedDoubleBuffer | ControlStyles.ResizeRedraw | ControlStyles.SupportsTransparentBackColor | ControlStyles.UserPaint), true);
         DoubleBuffered = true;
