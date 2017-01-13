@@ -4,7 +4,7 @@ A collection of awesome and beautiful flat UI components for winforms based on C
 
 
 
-### State
+### State :
 
 
  | Support color | Disabled mode | Animated
