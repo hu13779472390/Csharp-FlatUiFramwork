@@ -9,4 +9,5 @@ A collection of awesome and beautiful flat UI components for winforms based on C
 
  | Support color | Disabled mode | Animated
 --- | --- | --- | --- | ---
-Button | Yes | Yes | Yes
+FlatButton | Yes | Yes | Yes
+FlatCard | Yes | No | Yes
